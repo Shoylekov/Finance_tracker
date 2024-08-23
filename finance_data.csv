@@ -1,0 +1,20 @@
+date,amount,category,description
+20-06-2024,2000.65,Income,Salary
+23-06-2024,150.0,Income,Sold guitar
+25-06-2024,1140.0,Expense,Paying bills
+05-07-2024,200.75,Expense,Groceries
+12-07-2024,50.00,Income,Freelance work
+14-07-2024,300.00,Expense,Rent
+18-07-2024,100.00,Income,Gift from friend
+21-07-2024,75.50,Expense,Utilities
+25-07-2024,500.00,Income,Bonus
+29-07-2024,60.00,Expense,Internet bill
+02-08-2024,350.00,Income,Selling old furniture
+06-08-2024,89.99,Expense,New shoes
+10-08-2024,45.00,Income,Refund from store
+13-08-2024,130.00,Expense,Dining out
+17-08-2024,225.00,Income,Part-time job
+22-08-2024,540.00,Expense,Car repair
+26-08-2024,180.00,Income,Freelance design
+30-08-2024,95.25,Expense,Medical bills
+01-09-2024,1600.0,Income,Found
