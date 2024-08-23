@@ -18,3 +18,5 @@ Data Storage:
 
 Transactions are stored in a CSV file (finance_data.csv), ensuring that your data is easily accessible and portable.
 The CSV file is automatically created and initialized if it doesn't exist.
+
+![figure](https://github.com/user-attachments/assets/0600bdbe-80fc-480e-a2f7-6c760dc09568)
