@@ -1,7 +1,7 @@
-#Finance Tracker
+# Finance Tracker
 A simple financial tracking application built with Python, PyQt, and Pandas. This app helps you manage and visualize your personal finances by allowing you to add, view, and analyze transactions.
 
-#Features
+# Features
 Add Transactions: Record financial transactions with date, amount, category (Income/Expense), and description.
 View Transactions: Filter and view transactions by date range.
 Visualize Data: Generate and view plots of income and expenses over time.
@@ -15,8 +15,8 @@ PyQt5
 Pandas
 Matplotlib
 
-#Usage
-#Add Transaction:
+# Usage
+# Add Transaction:
 
 Click on "Add Transaction".
 Enter the transaction details: date, amount, category, and description.
@@ -29,7 +29,7 @@ Click "Submit" to view filtered transactions and optionally generate a plot.
 #View All Transactions:
 
 Click on "View All Transactions" to see a detailed list of all recorded transactions.
-#Features
+# Features
 Add Transactions
 Use a dialog to enter the transaction details. The data is saved to a CSV file for persistent storage.
 
